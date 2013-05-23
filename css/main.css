@@ -1,9 +1,25 @@
 
 body {
-	
+	background-image: url("../img/inflicted.png");
+	background-repeat: both;
 }
-
-
 .wrapper {
-
+	margin: auto;
+	width: 75%;
+	background-image: url("../img/light.png");
+	background-repeat: both;
 }
+header {
+	background: white;
+}
+img,p,ul,ol {
+	max-width: 90%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+#dragon {
+	width: 45%;
+	float: right;
+}
+
